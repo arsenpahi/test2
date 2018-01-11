@@ -1,3 +1,6 @@
 dsfdf
 1
 2
+
+git remote add origin https://github.com/arsenpahi/test2.git
+git push -u origin master
